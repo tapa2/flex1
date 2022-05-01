@@ -1,0 +1,36 @@
+.coming {
+   display: flex;
+   flex-direction: column;
+   margin-bottom: 46px;
+}
+.coming-title {
+   font-size: 30px;
+   margin: 0 0 32px 0;
+}
+
+.coming__row {
+   display: flex;
+   align-self: center;
+   justify-content: space-around;
+   margin: 0 -28px;
+}
+
+.coming__column {
+   flex: 0 1 33.333%;
+   margin: 0 28px;
+   display: flex;
+   flex-direction: column;
+}
+
+
+.coming__img {
+   flex: 1 1 auto;
+
+}
+
+.coming__title {
+   font-size: 19px;
+   font-weight: 700;
+   text-transform: uppercase;
+   margin-top: 22px;
+}

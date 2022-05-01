@@ -1,0 +1,26 @@
+.quick {
+   width: 100%;
+   background-color: #0085cf;
+   border-radius: 13px;
+   padding: 18px 50px 19px 25px;
+   margin-bottom: 42px;
+}
+
+.quick__columns {
+   display: flex;
+   flex-direction: column;
+   color: #fffeff;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.quick__title {
+   font-size: 20px;
+   font-weight: 700;
+   margin-bottom: 13px;
+
+}
+
+.quick__text {
+   font-size: 15px;
+   line-height: 18px;
+}

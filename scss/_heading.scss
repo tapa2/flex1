@@ -1,0 +1,28 @@
+.heading {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin: 35px auto 47px auto;
+   background: url('../img/image_1.png') 100% center no-repeat;
+   height: 320px;
+}
+
+.heading-topic {
+   max-width: 560px;
+   border-radius: 15px;
+   background-color: rgba($color: #ffffff, $alpha: 0.8);
+   padding: 30px 25px;
+   text-align: center;
+
+}
+
+.heading-topic__title {
+   font-size: 35px;
+   font-weight: 700;
+   margin-bottom: 8px;  
+}
+
+.heading-topic__text {
+   font-size: 23px;
+   line-height: 30px;
+}
